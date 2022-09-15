@@ -1,0 +1,17 @@
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.csproj.AssemblyReference.cache
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.Form1.resources
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.csproj.GenerateResource.cache
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.AssemblyInfoInputs.cache
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.AssemblyInfo.cs
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.csproj.CoreCompileInputs.cache
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\Hadik.exe
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\Hadik.deps.json
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\Hadik.runtimeconfig.json
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\Hadik.dll
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\ref\Hadik.dll
+C:\Users\husky\source\repos\Hadik\Hadik\bin\Debug\net6.0-windows\Hadik.pdb
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.dll
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\ref\Hadik.dll
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.pdb
+C:\Users\husky\source\repos\Hadik\Hadik\obj\Debug\net6.0-windows\Hadik.genruntimeconfig.cache
